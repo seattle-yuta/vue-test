@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'webpacker', github: 'rails/webpacker'
+gem 'webpacker', '3.0.2'
 
 gem 'foreman'
 
